@@ -102,7 +102,7 @@ const Register = () => {
           {REGISTER_TEXT}
         </button>
 
-        <p className="mt-4 text-center">
+        <p className="mt-4 text-center text-black">
           Already have an account?{" "}
           <Link to="/login" className="text-blue-500 underline">
             Login Here
