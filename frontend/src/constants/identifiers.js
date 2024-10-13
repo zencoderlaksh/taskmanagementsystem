@@ -1,5 +1,8 @@
 // API
-export const BASE_URL = "http://localhost:5000";
+// export const BASE_URL = "http://localhost:5000";
+export const BASE_URL =
+  "https://backendtaskmanagement-e52840c21434.herokuapp.com";
+
 export const TOKEN_KEY = "token";
 export const AUTH_HEADER = "Authorization";
 export const BEARER_PREFIX = "Bearer";
